@@ -1,6 +1,6 @@
 {
-  "version":"0.0.1"
-  "changelogs":["added rename", "added macrocheck"],
+  "latestversion":"0.0.1"
   "creatormsg":"Welcome to Pig Addons! Don't forget that I'm always opent to suggestions.",
-  "whitelist":["auto_core", "Turkhey"]
+  "whitelist":["auto_core", "Turkhey"],
+  "sneakpeek":"neucustomize"
 }
